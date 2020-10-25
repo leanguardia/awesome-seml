@@ -81,6 +81,7 @@ How to deploy and operate your models in a production environment.
 - [Fairness Indicators: Scalable Infrastructure for Fair ML Systems](https://ai.googleblog.com/2019/12/fairness-indicators-scalable.html) 🎓
 - [Machine Learning Logistics](https://mapr.com/ebook/machine-learning-logistics/)
 - [Machine learning: Moving from experiments to production](https://blog.codecentric.de/en/2019/03/machine-learning-experiments-production/)
+- [Machine Learning System Architectural Pattern for Improving Operational Stability](https://ieeexplore.ieee.org/document/8712157) 🎓
 - [ML Ops: Machine Learning as an engineered disciplined](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
 - [Model Governance Reducing the Anarchy of Production](https://www.usenix.org/conference/atc18/presentation/sridhar) 🎓
 - [ModelOps: Cloud-based lifecycle management for reliable and trusted AI](http://hummer.io/docs/2019-ic2e-modelops.pdf)
